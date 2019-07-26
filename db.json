@@ -1,42 +1,62 @@
 [
-  {
-    "id":1,
-    "name": "Hospital Alor Gajah",
-    "address": "Jalan Paya Datok / Simpang, 78000 Alor Gajah, Melaka",
-    "latitude": 2.3955491,
-    "longitude": 102.20065,
-    "image_url": "https://media.glassdoor.com/l/de/cd/ae/b6/the-face-shop.jpg"
-  },
-  {
-    "id":2,
-    "name": "Hospital Ampang",
-    "address": "Jalan Mewah, Lebuhraya Utara - Selatan, Pandan Indah, 68000 Ampang, Selangor",
-    "latitude": 3.1284321,
-    "longitude": 101.7611499,
-    "image_url": "http://dreamercosmetic.com/uploads/source/chekd101/trangdiem/bomyphamchanel5moncaocap11600x450.jpg"
-  },
-  {
-    "id":3,
-    "name": "Hospital Balik Pulau",
-    "address": "Jalan Balik Pulau, 11000 Balik Pulau, Pulau Pinang",
-    "latitude": 5.3498148,
-    "longitude": 100.2332831,
-    "image_url": "https://www.vinpearl.com/landmark81/wp-content/uploads/sites/39/2018/09/VP-Luxury-Landmark-81-22-bot.jpg"
-  },
-  {
-    "id":4,
-    "name": "Hospital Baling",
-    "address": "Baling, 09100 Baling, Kedah",
-    "latitude": 5.6779471,
-    "longitude": 100.9234647,
-    "image_url": "http://i.dtinews.vn/images/editor/images/ngovan/12018/19/Big/pho-di-bo-bui-vien-anh-hoang-trieuimg8663-1516201119295.jpg"
-  },
-  {
-    "id":5,
-    "name": "Hospital Banting",
-    "address": "Jalan Sultan Alam Shah, 42700 Banting, Selangor",
-    "latitude": 2.8033724,
-    "longitude": 101.4902543,
-    "image_url": "http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/ho-chi-minh-city/ben-thanh-market/allParagraphs/BucketComponent/ListingContainer/03/image/ben-thanh-market-ext.jpg"
-  }
-]
+      {
+        "id": 1,
+        "type": "Hospital",
+    	"name": "Hospital Alor Gajah",
+        "description": "Jalan Paya Datok / Simpang, 78000 Alor Gajah, Melaka",
+        "image":
+          "https://images.unsplash.com/photo-1525811902-f2342640856e?fit=crop&w=900&h=600&q=130",
+        "latlng": {
+          "latitude": 2.3955491,
+    	  "longitude": 102.20065,
+        }
+      },
+      {
+        "id": 2,
+        "type": "Hospital",
+        "name": "Hospital Ampang",
+        "description": "Jalan Mewah, Lebuhraya Utara - Selatan, Pandan Indah, 68000 Ampang, Selangor",
+        "image":
+          "https://images.unsplash.com/photo-1525811902-f2342640856e?fit=crop&w=900&h=600&q=130",
+        "latlng": {
+          "latitude": 3.1284321,
+    	  "longitude": 101.7611499,
+        }
+      },
+      {
+        "id": 3,
+        "type": "Hospital",
+        "name": "Hospital Balik Pulau",
+        "description": "Jalan Balik Pulau, 11000 Balik Pulau, Pulau Pinang",
+        "image":
+          "https://images.unsplash.com/photo-1525811902-f2342640856e?fit=crop&w=900&h=600&q=130",
+        "latlng": {
+          "latitude": 5.3498148,
+    	  "longitude": 100.2332831,
+        }
+      },
+      {
+       "id": 4,
+        "type": "Hospital",
+        "name": "Hospital Baling",
+        "description": "Baling, 09100 Baling, Kedah",
+        "image":
+          "https://images.unsplash.com/photo-1525811902-f2342640856e?fit=crop&w=900&h=600&q=130",
+        "latlng": {
+          "latitude": 5.6779471,
+    	  "longitude": 100.9234647,
+        }
+      },
+      {
+       "id": 5,
+        "type": "Hospital",
+        "name": "Hospital Banting",
+        "description": "Jalan Sultan Alam Shah, 42700 Banting, Selangor",
+        "image":
+          "https://images.unsplash.com/photo-1525811902-f2342640856e?fit=crop&w=900&h=600&q=130",
+        "latlng": {
+          "latitude": 2.8033724,
+    	  "longitude": 101.4902543,
+        }
+      }
+    ];
